@@ -21,23 +21,23 @@ I'm a Ph.D. student at Sangmyung University. I develop computer vision methods t
 
 ## 🔬 Research Interests
 
-### 🫀 Video-Based Physiological Computing
-*What can ordinary video tell us about a person's physiological state?*
+### 🌐 Domain Generalization
+- Distribution Shift Analysis
+- Domain-Invariant Representation Learning
+- Cross-Subject Generalization
+- Robustness to Unseen Domains
 
-- Contactless estimation of respiration and pulse from video
-- Multimodal stress recognition using facial landmark dynamics and camera-derived respiration
+### 👁️ Human-Centered Computer Vision
+- Gaze Estimation
+- Human Pose Estimation & Refinement
+- Action & Gesture Recognition
+- Human Motion Analysis
 
-### 🌐 Domain Generalization Across People
-*Can a model recognize stress in someone it has never seen before?*
-
-- Subject-invariant representation learning that reduces identity-related variation while preserving cues relevant to stress recognition
-- Subject-independent evaluation and analysis of how much individual information remains in learned features
-
-### 🏃 Streaming Human Pose Refinement
-*How many future frames do we need to stabilize pose estimates within a fixed delay?*
-
-- Fixed-lag refinement of frame-by-frame human pose estimates with a limited lookahead
-- Trade-offs among positional accuracy, motion smoothness, and output delay in live video
+### 🫀 Physiological & Affective Computing
+- Remote Photoplethysmography (rPPG)
+- Physiological Signal Analysis
+- Multimodal Emotion & Stress Recognition
+- Affective State Modeling
 
 ---
 
